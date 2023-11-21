@@ -1,0 +1,19 @@
+{
+  "name": "webdevelopment",
+  "version": "1.0.0",
+  "description": "nothing much ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SHAIKH-AZAZ/webdev.git"
+  },
+  "author": "azaz shaikh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SHAIKH-AZAZ/webdev/issues"
+  },
+  "homepage": "https://github.com/SHAIKH-AZAZ/webdev#readme"
+}
